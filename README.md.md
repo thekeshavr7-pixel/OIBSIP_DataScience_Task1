@@ -20,8 +20,8 @@ This project focuses on performing **Exploratory Data Analysis (EDA)** on a reta
 
 * **Dataset Name:** Retail Sales Dataset
 * **File Format:** CSV
-* **Rows:** *(Update if needed)*
-* **Columns:** *(Update if needed)*
+* **Rows:** 
+* **Columns:** 
 
 ---
 
@@ -101,7 +101,7 @@ Retail_Sales_EDA/
 
 ├── 📁 Screenshots/
 
-└── 📄 Report.pdf *(Optional)*
+
 
 ---
 
